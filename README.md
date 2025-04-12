@@ -1,4 +1,4 @@
-## Audio-Visual Person Verification
+## Audiovisual Person Verification
 You can find the full thesis with the "A" review [here](https://www.vut.cz/studenti/zav-prace/detail/153223).
 
 
